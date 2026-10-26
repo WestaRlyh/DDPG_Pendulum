@@ -8,16 +8,15 @@
   <tr>
     <td align="center" width="50%">
       <strong>仿真环境自主起摆与稳定控制</strong><br>
-      <video src="https://github.com/user-attachments/assets/5e5cadc4-cf47-4088-aaf4-c2b37ccf787d" controls muted playsinline width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/bad98ee3-67cf-42e8-9e92-f21b4cf193fa" controls muted playsinline width="100%"></video>
     </td>
     <td align="center" width="50%">
       <strong>Arduino/PIL 实物闭环控制</strong><br>
-      <video src="https://github.com/user-attachments/assets/bad98ee3-67cf-42e8-9e92-f21b4cf193fa" controls muted playsinline width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/5e5cadc4-cf47-4088-aaf4-c2b37ccf787d" controls muted playsinline width="100%"></video>
     </td>
   </tr>
 </table>
 
-本地视频文件：[`data/sim.mp4`](data/sim.mp4)、[`data/real.mp4`](data/real.mp4)。
 
 ## 项目概述
 
